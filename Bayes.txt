@@ -1,4 +1,4 @@
 .98 x .005 = 0.49% probability of a positive result
 .0049 / .0050 = .98 => 98%
 .98 x .90 = .882 => 88.2% probability that it'll correctly identify a non-sufferer
-.0001 + .882 = .88201 => 88.201% will be correctly identified
+.0049 + .882 = .8869 => 88.69% will be correctly identified
