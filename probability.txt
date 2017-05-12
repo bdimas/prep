@@ -1,0 +1,4 @@
+.5 * .5 * .5 * .5 = 0.0625, or 1/16. Same answer for all three, since the probability does not change. 
+24/45
+...I am clearly overthinking this question. 
+The fallacy here is that they'll be polling more users who have a high probability of clicking on the link - these people will have spent more time on the site, on average. Also, anyone who spends enough time on the site is going to go Office Space on their machine from being asked too many times if they'd like to take a survey. 
